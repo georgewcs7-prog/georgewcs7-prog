@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 George Willian
 
-<!--
-**georgewcs7-prog/georgewcs7-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Suporte de TI e Front-End  
+🚀 Em busca da primeira oportunidade na área  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📊 Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=georgewcs7-prog&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: www.linkedin.com/in/george-sampara
